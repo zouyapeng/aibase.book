@@ -1,0 +1,11 @@
+{
+  "title": "我的AI入门笔记",
+  "description": "",
+  "language": "zh",
+  "plugins": [
+    "prism",
+    "-highlight",
+    "splitter",
+    "katex"
+  ]
+}
